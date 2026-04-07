@@ -1,0 +1,17 @@
+{
+  "name": "Gabriel Rodrigo Cavejon",
+  "short_name": "Gabriel Cavejon",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#09111c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
